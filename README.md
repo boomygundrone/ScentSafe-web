@@ -1,9 +1,8 @@
 # ScentSafe-web
 this is the web md for ScentSafe
- chat.md
 
 ## AI Interaction Overview
-- Tools used: ChatGPT5, ChatGPT-4o (this assistant).
+- Tools used: ChatGPT5, ChatGPT-4o
 - Roles in the build:
   - Messaging strategy to reframe ScentSafe as a Social Wellness technology.
   - Content drafting for hero, mission, problem/solution, vision, FAQ, and testimonials.
